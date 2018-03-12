@@ -1,3 +1,4 @@
+#Credit card issuer checking
 def get_issuer(number):
     a = {'AMEX':[[34, 37], [15]],'Discover': [[6011], [16]],'Mastercard': [[51, 52, 53, 54, 55], [16]],'VISA': [[4], [13, 16]]}
     b=str(number)
