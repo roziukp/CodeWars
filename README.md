@@ -29,7 +29,7 @@ Everyone who wants to learn something new or practice already existing skills in
 - News **- _view_**
 - Feedback **- _writing a message_**
 - Personal Area:
-    - User information **- _viewing, editing _** 
+    - User information **- _viewing, editing_** 
     - Statistics of letters **- _viewing, editing_**
     
 
