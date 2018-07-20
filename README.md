@@ -74,6 +74,6 @@ Adobe Flash Player version 9 and higher.
 
 ## Contacts:
  **_Pavel Roziuk_**:
-     - e-mail: **roziukp@gmail.com**
-     - tel: **+380675937292**
-     - address: **Berezan, Cegelna str. 4a**
+ -  e-mail: **roziukp@gmail.com**
+ -  tel: **+380675937292**
+ -  address: **Berezan, Cegelna str. 4a**
